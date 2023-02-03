@@ -1,0 +1,19 @@
+.fs {
+    font-size : 50px;
+    font-weight : bold;
+}
+
+.bc {
+    color : black;
+}
+
+.rs {
+    font-size : 50px;
+    font-weight : bold;
+}
+
+.border {
+    border-radius: 45px;
+    width: 10cm;
+    height: 20px;
+}
